@@ -1,5 +1,5 @@
 ### Personal Site loading...
-## [■■■■□□□□□□] 40%
+## [■■■■■■■■□□] 80%
 
 [![Phoebe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ASmallSquishySquid&theme=synthwave&hide=roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
