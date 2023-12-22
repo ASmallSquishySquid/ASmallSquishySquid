@@ -1,7 +1,8 @@
 ### [Personal Site](http://asmallsquishysquid.github.io/) loading...
 ## [■■■■■■■■■□] 95%
 
-[![Phoebe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ASmallSquishySquid&theme=synthwave&hide=roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Phoebe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ASmallSquishySquid&theme=synthwave&hide=roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Phoebe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ASmallSquishySquid&theme=buefy&hide=roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 **ASmallSquishySquid/ASmallSquishySquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
